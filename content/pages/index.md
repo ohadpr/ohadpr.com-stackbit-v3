@@ -67,10 +67,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Some links
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "*   [My Old Blog](http://www.ohadpr.com/old-blog)\n\n*   [Old Computer Graphics stuff](http://www.ohadpr.com/category/computergaphics/),\_[iPad Terrain App](http://www.ohadpr.com/2010/07/terrain-ipad-app/)\n\n*   [Demoscene productions](http://www.youtube.com/watch?v=mBkz\\_-jktWg\\&list=PLwYcEc2IEcr91QDabl5qaLUEgewQGpAsc\\&feature=player_detailpage#t=108s)\n\n*   [Virtual Pendant iOS](http://www.youtube.com/watch?v=Bi19w8AIC18)\n\n*   [Fictitious Israeli city name generator](https://www.telhubeza.com/)\n\n"
         actions:
           - type: Button
             label: ''
