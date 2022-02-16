@@ -55,13 +55,7 @@ sections:
       - type: FeaturedItem
         title: Past
         text: "*   Founded and was CEO of\_[3D3R Software](https://www.3d3r.com/), which\_[Chegg](https://www.chegg.com/)\_(NYSE:CHGG) acquired, I served as Chegg’s VP R\\&D until 2016\n\n*   Co-founded\_[GarageGeeks](http://garagegeeks.org/), which was a physical & virtual space for multi-disciplinary creative people to meet, innovate and build\n\n*   Developed\_[games for the PalmPilot](https://www.ohadpr.com/etc/pilot/pilot), including the world’s best selling Checkers game for the platform\n\n*   Started the\_[Demoscene](http://en.wikipedia.org/wiki/Demoscene)\_group\_[IMR](http://www.pouet.net/groups.php?which=1651)\_which won several international awards, wrote lots of 0x86 assembly code\n\n"
-        actions:
-          - type: Button
-            label: ''
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
