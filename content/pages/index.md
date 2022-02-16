@@ -24,7 +24,7 @@ sections:
           - mr-0
         padding:
           - pt-24
-          - pb-16
+          - pb-14
           - pl-4
           - pr-4
         justifyContent: center
