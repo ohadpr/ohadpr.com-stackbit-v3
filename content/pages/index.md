@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 colors: colors-a
 backgroundImage:
-  url: /images/bg.jpg
+  url: /images/featured-Image5.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
