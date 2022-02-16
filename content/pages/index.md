@@ -42,13 +42,7 @@ sections:
       - type: FeaturedItem
         title: Present
         text: "*   Co-founder & CEO of\_[Stackbit](https://www.stackbit.com/)\_which is a platform for building Jamstack websites\n\n*   Early-stage investor in startups like\_[Cased](https://www.cased.com/),\_[Riverside](https://riverside.fm/),\_[Sanity](https://www.sanity.io/),\_[Dev](https://dev.to/),\_[Chromatic](https://www.chromatic.com/),\_[Domestika](https://www.domestika.org/en),\_[Netlify](https://www.netlify.com/),\_[PeerSpace](https://www.peerspace.com/),\_[Bottomless](https://www.bottomless.com/),\_[Loop Commerce](https://www.loopcommerce.com/),\_[IFTTT](https://ifttt.com/), and others\n\n*   On the Board of Directors of\_[Netlify](https://www.netlify.com/), which is changing the way people build, deploy, and manage modern web projects\\* Co-founder & President of\_[AppSharp](https://www.appsharp.com/), which builds software to help small businesses thrive\n\n"
-        actions:
-          - type: Button
-            label: ''
-            showIcon: true
-            icon: arrowRight
-            url: /
-            style: primary
+        actions: []
         styles:
           self:
             textAlign: left
