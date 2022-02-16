@@ -37,7 +37,6 @@ sections:
     type: TextSection
   - colors: colors-f
     elementId: ''
-    title: Value propositions
     subtitle: ''
     items:
       - type: FeaturedItem
