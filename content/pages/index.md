@@ -46,7 +46,6 @@ sections:
   - colors: colors-f
     elementId: ''
     variant: variant-a
-    subtitle: The section subtitle
     text: "Hi, my name is Ohad. I’m a programmer, entrepreneur, and occasional investor living in San Francisco. You can contact me at\_**me \\[at] this domain \\[dot] com**,\_[@ohadpr](https://twitter.com/ohadpr),\_[linkedin.com/in/ohadpr](https://linkedin.com/in/ohadpr)\n"
     styles:
       self:
