@@ -40,7 +40,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: Present
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
