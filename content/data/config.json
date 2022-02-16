@@ -28,14 +28,7 @@
         }
     },
     "footer": {
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
