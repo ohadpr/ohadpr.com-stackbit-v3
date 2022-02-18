@@ -47,7 +47,7 @@ sections:
         title: Present
         text: >+
           *   Co-founder & CEO of [Stackbit](https://www.stackbit.com/) which is
-          a platform for building Jamstack websites
+          a modern, visual site builder for custom-built sites
 
 
           *   Early-stage investor in startups like
@@ -64,9 +64,11 @@ sections:
 
           *   On the Board of Directors of [Netlify](https://www.netlify.com/),
           which is changing the way people build, deploy, and manage modern web
-          projects\* Co-founder & President of
-          [AppSharp](https://www.appsharp.com/), which builds software to help
-          small businesses thrive
+          projects
+
+
+          *   Co-founder & President of [AppSharp](https://www.appsharp.com/),
+          which builds software to help small businesses thrive
 
         actions: []
         styles:
