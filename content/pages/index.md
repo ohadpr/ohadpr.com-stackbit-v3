@@ -13,9 +13,9 @@ sections:
     elementId: ''
     variant: variant-a
     text: >
-      Hi, my name is Ohad. I’m a programmer, entrepreneur, and occasional
-      investor living in San Francisco. You can contact me at **me \[at] this
-      domain \[dot] com**, [@ohadpr](https://twitter.com/ohadpr),
+      Hi, my name is Ohad. I’m a programmer, entrepreneur, and angel investor
+      living in San Francisco. You can contact me at **me \[at] this domain
+      \[dot] com**, [@ohadpr](https://twitter.com/ohadpr),
       [linkedin.com/in/ohadpr](https://linkedin.com/in/ohadpr)
     styles:
       self:
