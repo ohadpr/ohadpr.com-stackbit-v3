@@ -75,8 +75,8 @@ sections:
       - type: FeaturedItem
         title: Present
         text: >+
-          *   Co-founder & CEO of [Stackbit](https://www.stackbit.com/) which is
-          a modern, visual site builder for custom-built sites
+          *   Co-founder & CEO of [Stackbit.](https://www.stackbit.com/) We are
+          remaking the programming and visual editing of websites.
 
 
           *   Early-stage investor in startups like
