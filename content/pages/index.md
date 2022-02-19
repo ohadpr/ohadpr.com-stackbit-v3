@@ -43,8 +43,10 @@ sections:
     elementId: ''
     variant: variant-a
     subtitle: ''
-    text: |
-      H. My name is Ohad Eder Pressman. [@ohadpr](https://twitter.com/ohadpr)
+    text: >
+      H. My name is Ohad Eder Pressman. [@ohadpr,
+      ](https://twitter.com/ohadpr)[me@\<this domain>.com](<mailto:me@\<this
+      domain\>.com>)
     styles:
       self:
         height: auto
