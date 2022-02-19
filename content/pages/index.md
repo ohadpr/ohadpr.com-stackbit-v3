@@ -45,8 +45,7 @@ sections:
     subtitle: ''
     text: >
       H. My name is Ohad Eder Pressman. [@ohadpr,
-      ](https://twitter.com/ohadpr)[me@\<this domain>.com](<mailto:me@\<this
-      domain\>.com>)
+      ](https://twitter.com/ohadpr)me@\<this domain>.com
     styles:
       self:
         height: auto
