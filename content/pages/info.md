@@ -9,6 +9,38 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
+  - type: TextSection
+    colors: colors-f
+    elementId: ''
+    variant: variant-a
+    title: null
+    subtitle: null
+    text: >
+      Hi, my name is Ohad. I’m a programmer, entrepreneur, and angel investor
+      living in San Francisco. You can contact me at "**me \[at] this domain
+      \[dot] com"**, [@ohadpr](https://twitter.com/ohadpr),
+      [linkedin.com/in/ohadpr](https://linkedin.com/in/ohadpr)
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-14
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
   - elementId: ''
     colors: colors-f
     backgroundSize: full
