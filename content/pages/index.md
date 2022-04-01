@@ -43,9 +43,8 @@ sections:
     elementId: ''
     variant: variant-a
     subtitle: ''
-    text: >
-      H. My name is Ohad Eder Pressman. @ohadpr,
-      [me@ohadpr.com](<mailto:me@\<this domain\>.com>)
+    text: |
+      H. My name is Ohad Eder Pressman. @ohadpr, me@<THIS DOMAIN>.com
     styles:
       self:
         height: auto
