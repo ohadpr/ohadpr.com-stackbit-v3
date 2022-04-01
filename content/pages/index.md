@@ -44,7 +44,7 @@ sections:
     variant: variant-a
     subtitle: ''
     text: |
-      H. My name is Ohad Eder Pressman. @ohadpr, me@<THIS DOMAIN>.com
+      H. My name is Ohad Eder Pressman. @ohadpr, me@\<THIS DOMAIN>.com
     styles:
       self:
         height: auto
