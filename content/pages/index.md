@@ -79,9 +79,8 @@ sections:
 
 
           *   Early-stage investor in startups like
-          [Cased](https://www.cased.com/), [Riverside](https://riverside.fm/),
-          [Sanity](https://www.sanity.io/), [Dev](https://dev.to/),
-          [Chromatic](https://www.chromatic.com/),
+          [Cased](https://www.cased.com/), [Sanity](https://www.sanity.io/),
+          [Dev](https://dev.to/), [Chromatic](https://www.chromatic.com/),
           [Domestika](https://www.domestika.org/en),
           [Netlify](https://www.netlify.com/),
           [PeerSpace](https://www.peerspace.com/),
